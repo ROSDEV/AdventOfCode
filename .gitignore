@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Aoc/.vs/Aoc
+/Aoc/Aoc/bin/Debug/net6.0
+/Aoc/Aoc/obj
+/Aoc/AocPuzzles/bin/Debug/net6.0
+/Aoc/AocPuzzles/obj
+/Aoc/AocPuzzles/bin/Debug/net8.0
